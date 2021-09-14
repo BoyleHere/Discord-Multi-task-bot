@@ -1,5 +1,5 @@
 # Discord-Multi-task-bot
-A bot I made for my Discord server with help from ggelango
+A bot I made for my Discord server with help from ggelango.
 This bot can verify email from a specific user in discord when they want to join the server.
 I have added some things like: when user messages F, the bot replies with 'F' just for fun purposes.
 If you want you can implement this code in your bot but you will need the following to do so:
